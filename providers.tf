@@ -17,6 +17,3 @@ provider "snowflake" {
   alias = "accountadmin"
   role  = "ACCOUNTADMIN"
 }
-
-provider "tls" {
-}
